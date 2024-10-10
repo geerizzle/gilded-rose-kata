@@ -1,0 +1,1 @@
+/home/duduya/Projects/gilded-rose-challenge/target/debug/rust: /home/duduya/Projects/gilded-rose-challenge/src/gildedrose.rs /home/duduya/Projects/gilded-rose-challenge/src/item.rs /home/duduya/Projects/gilded-rose-challenge/src/main.rs
